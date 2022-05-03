@@ -1,0 +1,82 @@
+import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+*{
+    margin:0px;
+    padding:0p;
+    font-family: 'Playfair Display', serif;
+}
+.menu{
+    height:50px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:black;
+}
+.burger{
+    margin-left:50px;
+    border:1px solid rgb(240, 105, 105)55, 255, 255);
+    border-radius:3px;
+    background-color:black;
+    display:none;
+}
+.line{
+    margin:4px 9px;
+    width:30px;
+    height:3px;
+    color:rgb(32, 31, 31);
+    background-color:white;
+}
+.m-item{
+    padding:3px;
+    color:rgb(54, 42, 226);
+    text-decoration:none;
+}
+.input{
+    width:115px;
+}
+.menu{
+    height:50px;
+    display:flex;
+}
+.search{
+    margin:4px;
+    color:white;
+    background-color:rgb(112, 260, 1);
+    border:1px solid rgb(0, 255, 98);
+    border-radius:2px;
+}
+.main{
+    padding-top:53px;
+    padding-bottom:53px;
+    height:100%;
+    width:100%;
+    background-color:rgb(245, 80, 250);
+}
+.logo{
+    text-align:center;
+    font-size:75px;
+    color:rgb(0, 76, 278);
+}
+.sec{
+    margin:auto auto;
+    box-sizing:content-box;
+    max-width:70vw;
+    box-sizing:border-box;
+    background-color:rgb(198, 240, 73);
+    border-radius:3px;
+    box-shadow:1px 1px 1px 1px 056;
+    display:block;
+    hover:pointer;
+}
+.sec-1{
+    padding:20px;
+    border:1px solid lightblue;
+    box-shadow:5px 5px 5px 5px 000;
+}
+.sec-2{
+    padding:20px;
+    border:1px solid rgb(69, 65, 79);
+}
+.sec-3{
+    padding:20px;
+    border:1px solid rgb(8, 39, 49);
+}
